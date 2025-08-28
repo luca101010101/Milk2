@@ -14,7 +14,7 @@
 
         default_layer {
             bindings = <
-&kp N1  &kp NUMBER_2
+&kp C_VOLUME_DOWN  &lt 1 C_VOLUME_UP
             >;
         };
 
